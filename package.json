@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run" : "node index.js",
+    "test" : "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekAvi007/DevOps_Pipelines.git",
-    "run" : "node index.js",
-    "test" : "node test.js"
+    "url": "git+https://github.com/GeekAvi007/DevOps_Pipelines.git"
   },
   "keywords": [],
   "author": "",
